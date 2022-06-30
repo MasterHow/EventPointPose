@@ -50,6 +50,7 @@ You can evaluate your model and output gif as well as videos following this [doc
 
 ### Pretrained Model
 Our pretrained model in the paper can be found here: [Baidu Cloud](https://pan.baidu.com/s/1kzkLpghqwQFhU7pjrDHKlA?pwd=y61z) or [Google Drive](https://drive.google.com/drive/folders/1uYEHfMVNThp5gTKyUlNVw9Xb895Uo_LL?usp=sharing)
+They can also be found in the [Github Releases tab](https://github.com/MasterHow/EventPointPose/releases).
 
 ## Citation
 If you find our project helpful in your research, please cite with:
